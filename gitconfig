@@ -1,0 +1,9 @@
+[user]
+	name = Muhammad Rayhan Hamada Budiman
+	email = rayhanhamada1999@gmail.com
+[alias]
+	co = commit
+	st = status
+	sth = stash
+[init]
+	defaultBranch = main
